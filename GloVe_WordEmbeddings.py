@@ -23,6 +23,7 @@ def main():
 def analogy(gloveFilePath):
 	gloveFileDict = readGloveFile(gloveFilePath)
 	output_file = open("analogy_output/" + gloveFilePath.split(".txt")[0].replace("/", "_") + "_output.txt", 'w+')
+	output_file.write("Computed analogies on RHS - \n")
 	with open("analogy.txt") as infile:
 		for line in infile:
 			if line.strip() == "":

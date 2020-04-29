@@ -1,0 +1,26 @@
+Computed analogies on RHS - 
+king - man + woman = queen
+boy - man + woman = girl
+girl - woman + man = boy
+vehicle - road + air = aircraft
+apple - fruit + computer = software
+queen - woman + man = king
+vehicle - car + fly = landing
+convict - bad + good = defendant
+apple - fruit + technology = computer
+bird - animal + vehicle = passenger
+plane - vehicle + animal = bird
+aeroplane - vehicle + animal = avant-rock
+man - male + female = woman
+boy - male + female = girl
+girl - female + male = boy
+woman - female + male = girl
+blackboard - black + white = powerpoint
+glass - transparent + reflect = wall
+lion - male + female = dragon
+bull - male + female = horse
+cow - female + male = cows
+lioness - female + male = milkmaid
+rooster - male + female = cogburn
+ice - solid + liquid = liquids
+pants - legs + hands = shirts
